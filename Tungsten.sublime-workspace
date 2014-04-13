@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ite",
+				"ItemStack"
+			],
+			[
+				"add",
+				"addNewArmourRendererPrefix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Tungsten.java",
+			"settings":
+			{
+				"buffer_size": 8404,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssobj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"ssO",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ss",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ssj",
+				"Set Syntax: Java"
+			],
+			[
+				"ss as",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"ssas",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"ssr",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssoc",
+				"Set Syntax: Objective-C"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/EnumToolMaterial.java",
+		"/E/Backup/Other/users.txt",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/lapisMod/LapisMod.java",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/obsidianMod/ObsidianMod.java",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/obsidianMod/ObsidianIngot.java",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/lapisMod/LapisArmor.java",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/obsidianMod/Tools/ObsidianSword.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-09_21.43.55-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-10_12.32.34-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-10_12.36.25-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-10_12.38.10-client.txt",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/obsidianMod/CommonProxy.java",
+		"/C/Users/staudigel_c15/Desktop/populo/mod/obsidianMod/client/ClientProxy.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-10_08.14.36-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-10_08.32.21-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-10_09.33.12-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/LeggingsWeak.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/Leggings.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/HelmetWeak.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/Helmet.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/ChestplateWeak.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/Chestplate.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/BootsWeak.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/armor/Boots.java",
+		"/C/Users/staudigel_c15/Desktop/mod ideas.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/LapisArmorWeak.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/LapisMod.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/Boots.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/Leggings.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/Helmet.java",
+		"/C/Windows/winsxs/wow64_microsoft-windows-mulanttsvoiceenudsk_31bf3856ad364e35_6.1.7600.16385_none_75c520ccf1df00ca/M1033DSK.CRT",
+		"/C/Users/staudigel_c15/AppData/Roaming/Opera Software/Opera Stable/browser.js",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/ItemArmor.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/animalcrafting/AnimalCrafting.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/LapisHoe.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/LapisPick.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapismod/items/LapisHoeWeak.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/ItemFood.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/ItemMonsterPlacer.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/Item.java",
+		"/C/Users/staudigel_c15/Desktop/clas/BowlOfRiceMeat.class",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/crash-reports/crash-2014-04-06_20.31.35-client.txt",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/CommonProxy.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/items/LapisHoe.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/client/ClientProxy.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/items/LapisShovel.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/items/LapisSword.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/items/LapisPick.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/populo/mod/lapisMod/items/LapisAxe.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/ShapelessRecipes.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/ShapedRecipes.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesWeapons.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesTools.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipeSorter.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesMapExtending.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesMapCloning.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesIngots.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesDyes.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesFood.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesCrafting.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesArmorDyes.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipesArmor.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/RecipeFireworks.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/IRecipe.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/FurnaceRecipes.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/item/crafting/CraftingManager.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/entity/monster/EntityCreeper.java",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/src/minecraft/net/minecraft/entity/Entity.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/ObsidianMod.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/net/minecraft/item/Item.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/client/ClientProxy.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/CommonProxy.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/ObsidianIngot.java",
+		"/C/Users/staudigel_c15/Desktop/publish mod.bat",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/Tools/ObsidianSword.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/Tools/ObsidianShovel.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/Tools/ObsidianPick.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/Tools/ObsidianAxe.java",
+		"/C/Users/staudigel_c15/Dropbox/mod/forge/mcp/src/minecraft/populo/mod/obsidianMod/Tools/ObsidianHoe.java",
+		"/C/Users/staudigel_c15/Desktop/mod/forge/mcp/src/minecraft/populo/mod/lapisMod/LapisMod.java",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/BeTheCoach/BeTheCoach/vars.cs",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/BeTheCoach/BeTheCoach/Program.cs",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/mcp/jars/server.properties",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/install.cmd",
+		"/C/Users/staudigel_c15/Desktop/Mod/forge/fml/install.py",
+		"/C/Users/staudigel_c15/Desktop/6 Month",
+		"/C/Users/staudigel_c15/Documents/minecraft Modding/1.6.4 Risugami ML/1.6.4 Ridugami ML.json",
+		"/C/Users/staudigel_c15/Documents/minecraft Modding/obsidian tools/CHANGELOG",
+		"/C/Users/staudigel_c15/AppData/Roaming/.minecraft/versions/1.6.4-FML6.4.41.787/1.6.4-FML6.4.41.787.json",
+		"/C/cygwin64/opt/theos/bin/nic.pl",
+		"/C/Users/staudigel_c15/Desktop/VideoPace.plist",
+		"/C/cygwin64/home/Staudigel_C15/.bash_profile",
+		"/C/Users/staudigel_c15/AppData/Local/Temp/7zOAC57.tmp/VideoPace.dylib",
+		"/C/Users/STAUDI~1/AppData/Local/Temp/7zE4A0F.tmp/VideoPace.unknown",
+		"/C/Users/STAUDI~1/AppData/Local/Temp/7zE8C4D.tmp/VideoPace.plist",
+		"/C/Users/staudigel_c15/Downloads/coach/BE THE COACH College Basketball Gamex_files/conversion.js",
+		"/C/Users/staudigel_c15/Downloads/coach/BE THE COACH College Basketball Gamex_files/counter.js",
+		"/C/Users/staudigel_c15/Downloads/coach/BE THE COACH College Basketball Gamex_files/saved_resource.htm",
+		"/C/Users/staudigel_c15/Downloads/coach/BE THE COACH College Basketball Gamex_files/ga.js",
+		"/C/Users/staudigel_c15/Downloads/coach/BE THE COACH College Basketball Gamex.htm",
+		"/C/Users/staudigel_c15/Documents/workspace/civGame/civGame/civGame.java",
+		"/C/Users/staudigel_c15/Documents/workspace/civGame/civGame/civGame.class",
+		"/C/Users/staudigel_c15/Desktop/North Isl.theme",
+		"/C/Users/staudigel_c15/Desktop/adm.bat",
+		"/C/Users/staudigel_c15/Desktop/user.bat",
+		"/C/Users/staudigel_c15/Desktop/screen.reg",
+		"/C/Users/staudigel_c15/Dropbox/Visual Studio 2013/Projects/CivGameCS/CivGameCS/CivGameCS.csproj",
+		"/C/cygwin64/home/Staudigel_C15/slidertext/Tweak.xm",
+		"/C/Users/staudigel_c15/Desktop/Chem Notes.txt",
+		"/C/Users/staudigel_c15/Desktop/users.txt",
+		"/C/Users/staudigel_c15/Desktop/iOS 7 like iOS 6.txt",
+		"/C/Users/staudigel_c15/Desktop/new  2.txt",
+		"/C/Users/staudigel_c15/Desktop/Notes.txt",
+		"/Y/           /SemiRestore/libMobiledevice.dll",
+		"/C/cygwin64/home/Staudigel_C15/flexoverride/Tweak.xm",
+		"/C/cygwin64/home/Staudigel_C15/theos/bin/nic.pl",
+		"/C/cygwin64/home/Staudigel_C15/springattempt/Tweak.xm",
+		"/C/Users/staudigel_c15/Desktop/infinite/stylesheet.css",
+		"/C/Users/staudigel_c15/Desktop/infinite/script.js",
+		"/C/Users/staudigel_c15/Desktop/infinite/main.html",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/CivilizationGame/CivilizationGame/Loading.Designer.cs",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/TacoDynasyCSharp/TacoDynasyCSharp/TacoDynasyCSharp.csproj",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/TacoDynasyCSharp/TacoDynasyCSharp/TacoDynasyCSharp.csproj.user",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/TacoDynasyCSharp/TacoDynasyCSharp/Properties/Resources.resx",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/TacoDynasyCSharp/TacoDynasyCSharp.v12.suo",
+		"/C/Users/staudigel_c15/Documents/Visual Studio 2013/Projects/TacoDynasyCSharp/TacoDynasyCSharp.sln",
+		"/C/Users/staudigel_c15/Desktop/HTML space/stylesheet.css",
+		"/C/Users/staudigel_c15/Desktop/HTML space/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mushroom",
+			"frame",
+			"K_K",
+			"push 'fireMode'",
+			"firemode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Tungsten.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 1980.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Tungsten.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
