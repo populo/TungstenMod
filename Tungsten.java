@@ -162,34 +162,6 @@ public class Tungsten {
 			"m", "s", "s", 'm', Tungsten.molten, 's', Item.stick
 		});
 		
-
-		/*
-		GameRegistry.addRecipe(new ItemStack(LapisMod.lapisPickStrong, 1), new Object[] {
-        	"lll", " s ", " s ", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-        GameRegistry.addRecipe(new ItemStack(LapisMod.lapisAxeStrong, 1), new Object[] {
-        	"ll ", "ls ", " s ", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-        GameRegistry.addRecipe(new ItemStack(LapisMod.lapisAxeStrong, 1), new Object[] {
-        	" ll", " sl", " s ", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-        GameRegistry.addShapedRecipe(new ItemStack(LapisMod.lapisHoeStrong, 1), new Object[] {
-        	" ll", " s ", " s ", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-        GameRegistry.addShapedRecipe(new ItemStack(LapisMod.lapisHoeStrong, 1), new Object[] {
-        	"ll ", " s ", " s ", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-        GameRegistry.addRecipe(new ItemStack(LapisMod.lapisSwordStrong, 1), new Object[] {
-        	"l", "l", "s", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-        GameRegistry.addRecipe(new ItemStack(LapisMod.lapisShovelStrong, 1), new Object[] {
-        	"l", "s", "s", 'l', new ItemStack(Block.blockLapis, 1), 's', Item.stick
-        });
-		*/
-
-		
-
-
 		//armor
 		
 		GameRegistry.addRecipe(new ItemStack(Tungsten.helmet, 1), new Object[] {
